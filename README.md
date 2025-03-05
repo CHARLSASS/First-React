@@ -27,3 +27,5 @@ If you are developing a production application, we recommend using TypeScript an
 
 ## Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![postgresql] (https://www.google.com/imgres?q=postgresql%20database&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F29%2FPostgresql_elephant.svg%2F1200px-Postgresql_elephant.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPostgreSQL&docid=EAg7JjHdADobyM&tbnid=IHzAKLHUqGD44M&vet=12ahUKEwj97Zez1PGLAxUjQ2cHHShsC0MQM3oECBgQAA..i&w=1200&h=1237&hcb=2&ved=2ahUKEwj97Zez1PGLAxUjQ2cHHShsC0MQM3oECBgQAA)
+
