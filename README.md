@@ -10,8 +10,8 @@
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 - ![Java Script](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=%23F7DF1E)
-- ![Static Badge](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26)
-- ![Static Badge](https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white&color=%23663399)
+- ![Html5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26)
+- ![Css](https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white&color=%23663399)
 
 
 
@@ -36,7 +36,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
-## Pembantuan Teknologi Yang di Gunakan(opsional)
-![Claude](https://img.shields.io/badge/claude-%23D97757?style=for-the-badge&logo=Claude&logoColor=white&color=%23D97757)
+
 
 
